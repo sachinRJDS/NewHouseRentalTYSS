@@ -12,8 +12,6 @@ import com.mysql.jdbc.Driver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 //welcome
-//new
-
 /**
  * used to connect to Db & perform DB specific Operations
  * @author Deepak
