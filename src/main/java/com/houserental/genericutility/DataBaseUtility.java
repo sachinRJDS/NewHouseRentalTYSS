@@ -11,8 +11,12 @@ import com.mysql.jdbc.Driver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+<<<<<<< HEAD
 
 
+=======
+//welcome
+>>>>>>> tyss
 /**
  * used to connect to Db & perform DB specific Operations
  * @author Deepak
@@ -108,7 +112,7 @@ public class DataBaseUtility {
 			System.out.println(expectedData+"==>data is not verified in the database");
 			return flag;
 		}
-         
+         //Thank You
 	}
 
 }
