@@ -1,0 +1,5 @@
+browser chrome
+url http://rmgtestingserver/domain/House_Rental_Application/
+username Prajju
+password Rjds123
+timeout 20
